@@ -1,0 +1,17 @@
+# Images
+*.jpg
+*.JPG
+*.jpeg
+*.png
+*.PNG
+*.svg
+*.bmp
+
+#Models
+*.h5
+*.hdf5
+*.caffemodel
+
+#zips
+*.zip
+*.7z

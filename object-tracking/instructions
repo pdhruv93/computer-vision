@@ -1,0 +1,5 @@
+Caffe files downloaded from:
+https://github.com/Mogball/goturn-files
+
+How to combine split zip files on Windows
+copy /B goturn.caffemodel.zip.* output.zip
