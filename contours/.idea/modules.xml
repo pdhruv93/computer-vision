@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/contours.iml" filepath="$PROJECT_DIR$/.idea/contours.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../deep learning/hsv/.idea/hsv.iml" filepath="$PROJECT_DIR$/../../deep learning/hsv/.idea/hsv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lane-detection-self-driving/.idea/lane-detection-self-driving.iml" filepath="$PROJECT_DIR$/../lane-detection-self-driving/.idea/lane-detection-self-driving.iml" />
+    </modules>
+  </component>
+</project>
